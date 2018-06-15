@@ -3,3 +3,5 @@ TPCH/
 temp/
 .vscode/
 *.csv
+__pycache__/
+testeHash.py
